@@ -6,5 +6,5 @@
 
 [Homepage (zh)](http://jiujiuer.xyz) | [Blog (zh)](http://www.jiujiuer.xyz/pages/repo)
 
-[![xeonds's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeonds)](https://github.com/anuraghazra/github-readme-stats)
+[![Xeonds's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeonds)](https://github.com/anuraghazra/github-readme-stats)
 ![xeonds's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeonds&layout=compact&hide_border=true&langs_count=10)
